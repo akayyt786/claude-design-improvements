@@ -9,6 +9,35 @@ httpster.net · minimal.gallery · cofolios.com · refero.design · siteinspire.
 
 ---
 
+## ELEMENTS & ASSETS LIBRARIES (component / asset sourcing — keep current)
+
+> Where to GET ready elements, components, and assets when building. The daily routine keeps
+> this curated and adds short notes on what each is best for. Prefer these over reinventing.
+
+### UI components (copy-paste, React/Tailwind)
+- 21st.dev — community component marketplace (paired with the `21st_magic` MCP installed here).
+- ui.shadcn.com — base primitives, the de-facto foundation.
+- ui.aceternity.com — flashy animated marketing components.
+- magicui.design — animated components, pairs with shadcn.
+- originui.com · cult-ui.com · hover.dev · reactbits.dev · tailark.com — extended sets.
+
+### Motion / animation
+- gsap.com (+ Club plugins) · framer-motion (motion.dev) · lottiefiles.com · unicorn.studio · rive.app
+
+### Icons
+- lucide.dev · phosphoricons.com · tabler.io/icons · heroicons.com · iconoir.com · svgl.app (brand logos)
+
+### Fonts
+- fontshare.com (free quality) · fonts.google.com · fontsource.org · pangrampangram.com · klim/commercial foundries for premium
+
+### Illustrations / 3D / backgrounds
+- spline.design (3D) · undraw.co · blush.design · shadergradient.co · ibelick (bg snippets) · cssgradient.io
+
+### Stock media (high-res, q=100)
+- unsplash.com · pexels.com · coverr.co (video) · mixkit.co
+
+---
+
 ## DISTILLED PRINCIPLES (rolling synthesis — update each run)
 
 > The agent rewrites this section each day: merge new learnings, drop noise, keep the
